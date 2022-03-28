@@ -18,11 +18,10 @@ Data respecter.
 `2020-2025`
 __Brigham Young University- Idaho__, Rexburg, Idaho
 
-- Bachelor of Science in Data Science #4.0 GPA
+- Bachelor of Science in Data Science 
 
 
-## Related Experience
-
+## Relevant Experience
 
 ### Technical Assistant
 
