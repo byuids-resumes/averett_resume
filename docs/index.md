@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Aj Averett's Resume
 ---
 # Aj Averett
